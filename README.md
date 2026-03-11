@@ -19,7 +19,7 @@ My email is 2303473412@qq.com
 
 ## 📋 Overview
 
-Jeson CMS is a clean, lightweight Content Management System built with native PHP and MySQL. Designed for small websites and personal bloggers, it provides essential tools to manage website content efficiently.
+CMS is a clean, lightweight Content Management System built with native PHP and MySQL. Designed for small websites and personal bloggers, it provides essential tools to manage website content efficiently.
 
 ---
 
